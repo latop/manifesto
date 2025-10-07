@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<update>
+  <app>Sigla</app>
+  <version>2.4.1</version>
+  <min_supported>2.3.0</min_supported>
+  <release_date>2025-10-07</release_date>
+  <notes>Exemplo multi-diretórios.</notes>
+  <files>
+    <file>
+      <path>Escala/SiglaEsc.exe</path>
+      <size>0</size>
+      <sha256>REPLACE_WITH_SHA256</sha256>
+      <url>https://update.sigla.app/Escala/2.4.1/SiglaEsc.exe</url>
+    </file>
+    <file>
+      <path>usuarios/usuarios.pbd</path>
+      <size>0</size>
+      <sha256>REPLACE_WITH_SHA256</sha256>
+      <url>https://update.sigla.app/usuarios/2.4.1/usuarios.pbd</url>
+    </file>
+  </files>
+</update>
